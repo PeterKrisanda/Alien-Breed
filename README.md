@@ -1,3 +1,3 @@
 # Alien-Breed
 
-This project deals with construction of action adventure game. In this game was created different enemies and tasks to solve.
+This project constructed action adventure game. In this game different enemies were created and player had tasks to solve.
